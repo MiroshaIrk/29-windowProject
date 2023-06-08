@@ -45,6 +45,5 @@ const modals = () => {
     }, time);
   }
 };
-// console.log(modal)
 
 export default modals;
